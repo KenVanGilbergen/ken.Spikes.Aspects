@@ -1,7 +1,7 @@
 ken.Spikes.Aspects
 ==================
 
-Aspects Testing
+Aspect testing
 ---------------
 Many frameworks, many options, only one you can choose...
 
@@ -20,10 +20,12 @@ More AOP
 * NKalore: http://www.codeproject.com/Articles/12650/Using-AOP-in-C (compiler)
 * Ayende:	http://ayende.com/blog/3474/logging-the-aop-way (implementing aspects options)
 
-|Remoting Proxies|Easy to implement|Only on interfaces or MarshalByRefObjects|
-|Deriving from ContextBoundObject|Easiest to implement|Bad performance|
-|Compile-time subclassing|Easiest to understand|Interfaces or virtual methods only|
-|Runtime subclassing|Very flexible|Interfaces or virtual methods only|
-|Hooking into the profiler API|Extremely powerful|Not so good performance|
-|Compile time IL-weaving|Good performance|Very hard to implement|
-|Runtime IL-weaving|Very powerful|Very hard to implement|
+Techniques
+----------
+* Remoting Proxies: easy to implement, only on interfaces or MarshalByRefObjects
+* Deriving from ContextBoundObject: easiest to implement, bad performance
+* Compile-time subclassing: easiest to understand, interfaces or virtual methods only
+* Runtime subclassing: very flexible, interfaces or virtual methods only
+* Hooking into the profiler API: extremely powerful, poor documentation
+* Compile time IL-weaving: good performance, hard to implement
+* Runtime IL-weaving: very powerful, very hard to implement
