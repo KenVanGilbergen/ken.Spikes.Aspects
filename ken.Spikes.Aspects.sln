@@ -28,6 +28,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.md = README.md
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ken.Spikes.Aspects.LinFu", "ken.Spikes.Aspects.LinFu\ken.Spikes.Aspects.LinFu.csproj", "{A3802809-3F19-43D4-9B0B-10D7C10349D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ken.Spikes.Aspects.SheepAspect", "ken.Spikes.Aspects.SheepAspect\ken.Spikes.Aspects.SheepAspect.csproj", "{A3A07EC1-1CE8-497D-B062-1A616C19AD91}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -62,6 +66,14 @@ Global
 		{66420DF7-88B8-459B-9A5E-B6CD192A4F30}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66420DF7-88B8-459B-9A5E-B6CD192A4F30}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66420DF7-88B8-459B-9A5E-B6CD192A4F30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3802809-3F19-43D4-9B0B-10D7C10349D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3802809-3F19-43D4-9B0B-10D7C10349D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3802809-3F19-43D4-9B0B-10D7C10349D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3802809-3F19-43D4-9B0B-10D7C10349D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3A07EC1-1CE8-497D-B062-1A616C19AD91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3A07EC1-1CE8-497D-B062-1A616C19AD91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3A07EC1-1CE8-497D-B062-1A616C19AD91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3A07EC1-1CE8-497D-B062-1A616C19AD91}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

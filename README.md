@@ -10,9 +10,10 @@ Many frameworks, many options, only one you can choose...
 * PostSharp
 * Snap
 * MessageSink
+* Linfu
+* SheepAspect
 
 ### More AOP
-* Linfu: https://github.com/philiplaureano/LinFu (compiler)
 * NKalore: http://www.codeproject.com/Articles/12650/Using-AOP-in-C (compiler)
 * Ayende:	http://ayende.com/blog/3474/logging-the-aop-way (implementing aspects options)
 
