@@ -13,6 +13,7 @@ Many frameworks, many options, only one you can choose...
 * Linfu
 * SheepAspect
 * Unity
+* Spring
 
 ### More on AOP
 * NKalore: http://www.codeproject.com/Articles/12650/Using-AOP-in-C (compiler)
