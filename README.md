@@ -12,10 +12,11 @@ Many frameworks, many options, only one you can choose...
 * MessageSink
 * Linfu
 * SheepAspect
+* Unity
 
-### More AOP
+### More on AOP
 * NKalore: http://www.codeproject.com/Articles/12650/Using-AOP-in-C (compiler)
-* Ayende:	http://ayende.com/blog/3474/logging-the-aop-way (implementing aspects options)
+* Ayende: http://ayende.com/blog/3474/logging-the-aop-way (implementing aspects options)
 
 ### Techniques
 * **Remoting Proxies**: easy to implement, only on interfaces or MarshalByRefObjects
@@ -25,3 +26,9 @@ Many frameworks, many options, only one you can choose...
 * **Hooking into the profiler API**: extremely powerful, poor documentation
 * **Compile time IL-weaving**: good performance, hard to implement
 * **Runtime IL-weaving**: very powerful, very hard to implement
+
+### IL tools
+* System.Reflection.Emit
+* Mono.Cecil
+* Microsoft CCI
+* PEVerify Tool
